@@ -15,14 +15,8 @@ A prototype of the online tutor can be found
 ## Developer Tools
 The plan is to use [Firebase Realtime Database](https://firebase.google.com/products/database/)
 to store and sync data corresponding to the Checkoffs received by each student.
-
-[Firebase Hosting](https://firebase.google.com/products/hosting/) seems to be
-the easiest option for hosting our web app, though depending on how complicated we make the app, using
-[node](https://nodejs.org/) and [ReactJS](https://facebook.github.io/react/) and deploying on 
-[Heroku](https://www.heroku.com) might make more sense.
-
-**For Newbies:** The [Firebase Web Codelab](https://codelabs.developers.google.com/codelabs/firebase-web/)
-is a helpful tutorial for getting a feel for how Firebase products are used.
+The rest of the stack includes [Node.js](https://nodejs.org/) and 
+[ReactJS](https://facebook.github.io/react/).
 
 ## Tutorials in Google Doc Format
 The AppInventor tutorials are also in the process of being rewritten to fit
