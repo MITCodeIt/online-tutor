@@ -17,7 +17,9 @@ The plan is to use [Firebase Realtime Database](https://firebase.google.com/prod
 to store and sync data corresponding to the Checkoffs received by each student.
 
 [Firebase Hosting](https://firebase.google.com/products/hosting/) seems to be
-the easiest option for hosting our web app.
+the easiest option for hosting our web app, though depending on how complicated we make the app, using
+[node](https://nodejs.org/) and [ReactJS](https://facebook.github.io/react/) and deploying on [Heroku]
+(https://www.heroku.com) might make more sense.
 
 **For Newbies:** The [Firebase Web Codelab](https://codelabs.developers.google.com/codelabs/firebase-web/)
 is a helpful tutorial for getting a feel for how Firebase products are used.
