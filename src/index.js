@@ -12,6 +12,7 @@ var config = {
   storageBucket: "codeit-online-tutor.appspot.com",
   messagingSenderId: "638070970590"
 };
+
 firebase.initializeApp(config);
 
 ReactDOM.render(
